@@ -1,4 +1,13 @@
-
-.help{
-    color:blue;
+h1{
+    color:rgb(243, 138, 209);
+    text-align:center;
+    font-size: 50px;
+    text-decoration:underline;
+    text-transform:uppercase;
 }
+p{  color:rgb(9, 0, 0);}
+body{
+    background-image:url("../images/SU1.jpg");
+    background-size:cover;
+}
+
