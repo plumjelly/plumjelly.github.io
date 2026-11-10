@@ -3,9 +3,26 @@ h1{
     text-align:center;
     font-size: 50px;
     text-decoration:underline;
-    text-transform:uppercase;
+    text-transform:lowercase;
+    font-family: "comic sans ms", cursive, sans-serif;
+
 }
-p{  color:rgb(9, 0, 0);}
+p{  color:rgb(9, 0, 0);
+    letter-spacing: 2px;
+    white-space:normal;
+    font-family: "verdana", sans-serif;
+    font-style:italic;
+    ;}
+a{
+    color:rgb(71, 64, 127);
+    background-color: rgb(248, 238, 220);
+    text-decoration:none;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-left: 20px;
+    padding-right: 20px;
+    margin: 310px;
+}
 body{
     background-image:url("../images/SU1.jpg");
     background-size:cover;
